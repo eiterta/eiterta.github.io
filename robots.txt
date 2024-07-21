@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eiterta.github.io/sitemap
+Sitemap: https://eiterta.github.io/app/sitemap
+Sitemap: https://eiterta.github.io/assets/sitemap
+Sitemap: https://eiterta.github.io/css/sitemap
+Sitemap: https://eiterta.github.io/includes/sitemap
+Sitemap: https://eiterta.github.io/item/sitemap
+Sitemap: https://eiterta.github.io/src/sitemap
